@@ -1,0 +1,17 @@
+*{
+  margin:0; padding:0;
+}
+body{
+  backgound-color:#1B263B;
+  clor:snow;
+}
+nav{
+  background-color:#DEE2E6;
+  font-ze:12px;
+}
+li{
+  list-style:none;
+  display:inline;
+}
+.content{
+}
